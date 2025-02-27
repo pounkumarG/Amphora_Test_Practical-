@@ -1,0 +1,192 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Automate Amphora Application",
+    "line": 1,
+    "id": "automate-amphora-application",
+    "tags": [],
+    "uri": "amphora.feature",
+    "elements": [
+      {
+        "id": "automate-amphora-application;click-product-one-by-one",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "Click Product One By One",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user Launch The Amphora Url",
+            "result": {
+              "status": "passed",
+              "duration": 5047000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 7,
+            "name": "user Click The Product Button And It Will Show For All Product",
+            "result": {
+              "status": "passed",
+              "duration": 213000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 8,
+            "name": "user Click The First Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 2882000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 9,
+            "name": "user Click The Second Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 2409000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "user Click The Third Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 2531000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 11,
+            "name": "user Click The Fourth Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 2479000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 12,
+            "name": "user Click The Fiveth Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 2674000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 13,
+            "name": "user Click The Sixth Product And Navigate to Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 1467000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 14,
+            "name": "user Check Finaly Assert",
+            "result": {
+              "status": "passed",
+              "duration": 74000000
+            }
+          }
+        ]
+      },
+      {
+        "id": "automate-amphora-application;login-functionallity",
+        "keyword": "Scenario",
+        "line": 16,
+        "name": "Login functionallity",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 4,
+            "name": "user Launch The Amphora Url",
+            "result": {
+              "status": "passed",
+              "duration": 1499000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 17,
+            "name": "user Click The Signup Button And It Will Go For Signup Page",
+            "result": {
+              "status": "passed",
+              "duration": 5147000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 18,
+            "name": "user Enter The Email In",
+            "result": {
+              "status": "passed",
+              "duration": 702000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 19,
+            "name": "user Enter The Fname For",
+            "result": {
+              "status": "passed",
+              "duration": 377000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 20,
+            "name": "user Enter The Lname For",
+            "result": {
+              "status": "passed",
+              "duration": 217000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 21,
+            "name": "Finally Click The Submit Button And It Navigate To Next Page",
+            "result": {
+              "status": "passed",
+              "duration": 192000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 22,
+            "name": "user Take The Some Conform Assert",
+            "result": {
+              "status": "passed",
+              "duration": 1058000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
