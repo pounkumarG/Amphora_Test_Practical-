@@ -22,7 +22,7 @@
             "name": "user Launch The Amphora Url",
             "result": {
               "status": "passed",
-              "duration": 5047000000
+              "duration": 3752000000
             }
           },
           {
@@ -32,7 +32,7 @@
             "name": "user Click The Product Button And It Will Show For All Product",
             "result": {
               "status": "passed",
-              "duration": 213000000
+              "duration": 119000000
             }
           },
           {
@@ -42,7 +42,7 @@
             "name": "user Click The First Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 2882000000
+              "duration": 2660000000
             }
           },
           {
@@ -52,7 +52,7 @@
             "name": "user Click The Second Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 2409000000
+              "duration": 1768000000
             }
           },
           {
@@ -62,7 +62,7 @@
             "name": "user Click The Third Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 2531000000
+              "duration": 3001000000
             }
           },
           {
@@ -72,7 +72,7 @@
             "name": "user Click The Fourth Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 2479000000
+              "duration": 2820000000
             }
           },
           {
@@ -82,7 +82,7 @@
             "name": "user Click The Fiveth Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 2674000000
+              "duration": 2329000000
             }
           },
           {
@@ -92,7 +92,7 @@
             "name": "user Click The Sixth Product And Navigate to Next Page",
             "result": {
               "status": "passed",
-              "duration": 1467000000
+              "duration": 1372000000
             }
           },
           {
@@ -102,7 +102,7 @@
             "name": "user Check Finaly Assert",
             "result": {
               "status": "passed",
-              "duration": 74000000
+              "duration": 14000000
             }
           }
         ]
@@ -122,7 +122,7 @@
             "name": "user Launch The Amphora Url",
             "result": {
               "status": "passed",
-              "duration": 1499000000
+              "duration": 1311000000
             }
           },
           {
@@ -132,7 +132,7 @@
             "name": "user Click The Signup Button And It Will Go For Signup Page",
             "result": {
               "status": "passed",
-              "duration": 5147000000
+              "duration": 4105000000
             }
           },
           {
@@ -142,7 +142,7 @@
             "name": "user Enter The Email In",
             "result": {
               "status": "passed",
-              "duration": 702000000
+              "duration": 581000000
             }
           },
           {
@@ -152,7 +152,7 @@
             "name": "user Enter The Fname For",
             "result": {
               "status": "passed",
-              "duration": 377000000
+              "duration": 358000000
             }
           },
           {
@@ -162,7 +162,7 @@
             "name": "user Enter The Lname For",
             "result": {
               "status": "passed",
-              "duration": 217000000
+              "duration": 180000000
             }
           },
           {
@@ -172,7 +172,7 @@
             "name": "Finally Click The Submit Button And It Navigate To Next Page",
             "result": {
               "status": "passed",
-              "duration": 192000000
+              "duration": 115000000
             }
           },
           {
@@ -182,7 +182,7 @@
             "name": "user Take The Some Conform Assert",
             "result": {
               "status": "passed",
-              "duration": 1058000000
+              "duration": 960000000
             }
           }
         ]
